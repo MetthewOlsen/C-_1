@@ -49,3 +49,20 @@
 // Console.WriteLine();
 
 // Console.WriteLine($"Расстояние между точками А и В равно {Math.Round(Length(x1, y1, z1, x2, y2, z2), 2)}");
+
+//Задача 23. Напишите программу, которая принимает на вход число (N) и 
+// выдаёт таблицу кубов чисел от 1 до N.
+
+//void Cub(int n)
+//{
+  //  int index = 1;
+    //while (index <= n)
+   // {
+   //     Console.WriteLine($"{index} - {Math.Pow(index, 3)}");
+    //    index += 1;
+    //}
+//}
+//Console.WriteLine("Введите число N: ");
+//int N = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("N - Cub");
+//Cub(N);
